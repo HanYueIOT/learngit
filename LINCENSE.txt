@@ -1,1 +1,2 @@
 this is a license.
+license is a key.
